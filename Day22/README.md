@@ -1,6 +1,6 @@
 # Day 22: 3362. Zero Array Transformation III 🧩
-**Level:** Medium  
-**Topics:** Greedy, Priority Queue, Prefix Sum 
+**Problem Link:** [LeetCode - 3362. Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/)
+
 ---
 
 ### 🧾 Problem Statement
